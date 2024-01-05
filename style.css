@@ -10,6 +10,9 @@
     background: linear-gradient(#48649F, #3B5998, #3B5998);
     border-bottom: 1px solid #253a69;
 }
+#milli{ font-size:bolder;
+       
+}
 .logo{
     position: absolute;
     height: 63px;
